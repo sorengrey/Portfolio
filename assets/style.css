@@ -7,3 +7,31 @@
 body {
     background-color: #B6A4B2;
 }
+
+/* Container Around About Me */
+.container-sm {
+    background-color: #C9BBC5;
+    float: left;
+    margin-left: 15px;
+}
+
+ /* Bio Image */
+img {
+    margin-right: 12px;
+    margin-bottom: 12px;
+}
+
+/* Bio Text
+ .bio {
+    margin-left: 10px;
+} */
+
+
+/* Sticky Footer */
+  footer {
+    text-align: center;
+    color: white;
+    background-color: #453641;
+    width: 100%;
+    border-top: 1px;
+}
