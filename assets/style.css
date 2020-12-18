@@ -33,7 +33,6 @@ h1 {
 #contactform {
   float: left;
   margin-left: 15px;
-  margin-right: 15px;
   padding-left: 15px;
   padding-top: 5px;
   padding-bottom: 30px;
@@ -45,11 +44,12 @@ h1 {
   background-color: #C9BBC5;
   float: left;
   margin-left: 15px;
+  margin-top: 15px;
   padding-top: 5px;
   padding-bottom: 30px;
 }
 
-/* Imags Inside Portfolio Container */
+/* Images Inside Portfolio Container */
 .col-sm-6 {
   padding: 15px;
 }
@@ -63,6 +63,13 @@ h1 {
 #profile-img {
     margin-right: 12px;
     margin-bottom: 12px;
+}
+
+/* Social Media Links */
+#social-links {
+  float: left;
+  margin-left: 15px;
+  background-color: #C9BBC5;
 }
 
 /* Sticky Footer */
