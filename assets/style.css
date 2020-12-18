@@ -43,6 +43,15 @@ h1 {
 /* Container Around Portfolio Images */
 #portfolio-images {
   background-color: #C9BBC5;
+  float: left;
+  margin-left: 15px;
+  padding-top: 5px;
+  padding-bottom: 30px;
+}
+
+/* Imags Inside Portfolio Container */
+.col-sm-6 {
+  padding: 15px;
 }
 
 /* Sets The Sticky Footer - Do Not Touch */
@@ -51,7 +60,7 @@ h1 {
 }
 
  /* Bio Image */
-img {
+#profile-img {
     margin-right: 12px;
     margin-bottom: 12px;
 }
@@ -61,6 +70,7 @@ img {
     flex-shrink: 0;
     color: white;
     text-align: center;
+    border-top: solid 3px #7a617a;
     background-color: #453641;
 }
 
