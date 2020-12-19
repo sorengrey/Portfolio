@@ -30,10 +30,8 @@ h1 {
 }
 
 /* Container Around Contact Form */
-#contactform {
-  float: left;
+.container {
   margin-left: 15px;
-  padding-left: 15px;
   padding-top: 5px;
   padding-bottom: 30px;
   background-color: #C9BBC5;
