@@ -69,22 +69,3 @@ body {
     border-top: solid 3px #7a617a;
     background-color: #453641;
 }
-
-
-/* TESTING Media Queries */
-
-/* @media (min-width: 568px) {
-  .container {
-    width: 550px;
-  }
-}
-@media (min-width: 992px) {
-  .container {
-    width: 970px;
-  }
-}
-@media (min-width: 1200px) {
-  .container {
-    width: 1170px;
-  }
-} */
