@@ -31,8 +31,6 @@ h1 {
 
 /* Container Around Contact Form */
 .container {
-  margin-left: 5px;
-  padding-top: 5px;
   padding-bottom: 30px;
   background-color: #C9BBC5;
 }
@@ -66,7 +64,6 @@ h1 {
 /* Social Media Links */
 #social-links {
   float: left;
-  margin-left: 15px;
   background-color: #C9BBC5;
 }
 
