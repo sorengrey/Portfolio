@@ -13,10 +13,6 @@ body {
   background-image: url("Images/background-image.png");
 }
 
-h1 {
-  margin-left: 15px;
-}
-
 /* Container Around About Me */
 #aboutme {
     background-color: #C9BBC5;
@@ -38,8 +34,6 @@ h1 {
 /* Container Around Portfolio Images */
 #portfolio-images {
   background-color: #C9BBC5;
-  float: left;
-  margin-left: 15px;
   margin-top: 15px;
   padding-top: 5px;
   padding-bottom: 30px;
