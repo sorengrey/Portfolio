@@ -29,6 +29,8 @@ body {
 .container {
   padding-bottom: 30px;
   background-color: #C9BBC5;
+  border: 1px solid #8d6f8d;
+  border-radius: 5px;
 }
 
 /* Container Around Portfolio Images */
@@ -56,10 +58,10 @@ body {
 }
 
 /* Social Media Links */
-#social-links {
+/* #social-links {
   float: left;
   background-color: #C9BBC5;
-}
+} */
 
 /* Sticky Footer */
   footer {
