@@ -15,15 +15,15 @@ body {
 
 /* Container Around About Me */
 #aboutme {
-    background-color: #C9BBC5;
+    background-color: #D7DADE;
     float: left;
     margin-left: 15px;
     margin-right: 15px; 
     padding-left: 15px;
     padding-right: 15px;
-    padding-top: 5px;
     padding-bottom: 30px;
 }
+
 
 /* Container Around Contact Form */
 .container {
