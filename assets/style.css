@@ -51,6 +51,11 @@ body {
   flex: 1 0 auto;
 }
 
+#contactform {
+  padding-top: 3px;
+  background-color: #D7DADE;
+}
+
  /* Bio Image */
 #profile-img {
     margin-right: 12px;
@@ -58,10 +63,11 @@ body {
 }
 
 /* Social Media Links */
-/* #social-links {
-  float: left;
-  background-color: #C9BBC5;
-} */
+ #social-links {
+  padding-top: 3px;
+  float: right;
+  background-color: #D7DADE;
+} 
 
 /* Sticky Footer */
   footer {
